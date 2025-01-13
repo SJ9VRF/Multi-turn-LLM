@@ -1,1 +1,15 @@
+# Handling datasets
+datasets==2.4.0
 
+# Machine Learning and Model Training
+transformers==4.20.1
+together==0.1.5  # Assuming 'together' is the name of the API client package; replace with the actual package name if different.
+
+# Utilities
+tqdm==4.64.0
+
+# Parallel processing
+multiprocessing
+
+# Environment Variables Management
+python-dotenv==0.20.0
