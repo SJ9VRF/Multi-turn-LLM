@@ -46,3 +46,20 @@ This document provides a technical overview of the processes involved in fine-tu
 - **Dependency Management:** Manage Python dependencies using `requirements.txt` to ensure all necessary libraries are installed.
 - **Environment Variables:** Securely manage API keys and sensitive data using `python-dotenv`, avoiding hard-coded values.
 - **Parallel Processing:** Implement threading or multiprocessing to enhance efficiency in data processing and model evaluations, crucial for handling large datasets and computation-intensive tasks.
+
+## Installation
+
+To get started with this project, follow these steps to install the necessary dependencies.
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/your-username/llm-multi-turn.git
+    cd llm-multi-turn
+    ```
+
+2. Install the required Python packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
