@@ -1,5 +1,7 @@
 # Multi-turn Large Language Model (LLM)
 
+This repository contains code and resources for fine-tuning Large Language Models (LLMs) to enhance their ability to handle multi-turn conversations. The project focuses on adapting general LLMs to maintain context and coherence across extended dialogues, which is helpful for applications like customer service bots, technical support.
+
 ![Screenshot_2025-01-07_at_9 28 58_PM-removebg-preview](https://github.com/user-attachments/assets/b8ad42d4-eb3c-4176-a58e-ef9941ac6b30)
 
 ## Technical Review of LLM Fine-Tuning for Multi-Turn Conversations
